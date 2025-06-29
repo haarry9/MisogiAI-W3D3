@@ -1,0 +1,14 @@
+[
+  {
+    "id": "cursor",
+    "name": "Cursor",
+    "description": "An AI-powered code editor designed for pair-programming.",
+    "system_prompt_file": "optimizers/prompts/cursor.txt"
+  },
+  {
+    "id": "replit",
+    "name": "Replit",
+    "description": "An online IDE with an integrated AI coding assistant.",
+    "system_prompt_file": "optimizers/prompts/replit.txt"
+  }
+] 
